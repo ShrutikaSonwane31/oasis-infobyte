@@ -1,0 +1,56 @@
+.imag{
+    width:270px;
+    margin: -120px 83px;
+    padding:30px 15px;
+    float: right;
+    display:inline-block;
+    position: relative;
+}
+.box{
+    text-align: left;
+    padding: 0px 0px;
+    margin:0px 0px;
+    font-size: large;
+    /* font-weight: bolder; */
+    font-style: italic;
+    font-size: 25px;
+    line-height: 40px;
+}
+.first{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    margin: 21px 1px;
+    padding: 0px 0px;
+}
+.head{
+    text-align: center;
+    font-weight:lighter;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:small;
+    margin: 21px 1px;
+    padding: 0px 0px;
+}
+.container{
+    background-color:rgb(188, 228, 244);
+    border:2px solid steelblue;
+    box-sizing: border-box;
+    margin: 72px 0px;
+    padding: 177px 25px;
+}
+.text{
+    margin:0px 150px;
+    padding:42px 200px;
+    text-align: justify;
+    line-height: 28px;
+    letter-spacing: 1px;
+    float: center;
+}
+.h1{
+text-align: center;
+letter-spacing: 1px;
+font-style: italic;
+}
